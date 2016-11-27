@@ -1,0 +1,22 @@
+body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: monaco, monospace;
+  background: #23272A
+}
+h1, h2 {
+  display: inline-block;
+  background: #fff;
+  padding: 0 0 0 10px;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+  padding: 0 10px 0 10px;
+}
+span {
+  background: #7289DA;
+  padding: 0 10px 0 10px;
+}
